@@ -1,6 +1,13 @@
 nav{
     list-style: none;
 }
+
 .slider{
     width: 50%;
 }
+
+
+li{
+    color:red;
+}
+
